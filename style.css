@@ -47,5 +47,18 @@ a:hover {
 }
 
 /*global style */
+.header {
+	background:#000;
+	height:600px;	
+}
 
+.content {
+	width:960px;
+	margin:0 auto;
+	background:#096;
+	height:600px;
+}
+.content ul li {
+	display:inline;
+}
 
