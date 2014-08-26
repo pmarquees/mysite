@@ -2,7 +2,7 @@
 /*  
 Coded by: Pedro Marques
 Description: My Portfolio.
-Enjoy the repository test
+Enjoy the repository
 */
 /* fonts */
 
@@ -28,7 +28,7 @@ Enjoy the repository test
 }
 
 strong {
-	font-weight:bold;	
+	font-weight:bold;
 }
 span {
 	color:#545454;	
@@ -61,4 +61,8 @@ a:hover {
 .content ul li {
 	display:inline;
 }
-
+.header {
+	background-color: #000;
+	height: 30px;
+	width: 960px;
+}
